@@ -1,0 +1,7 @@
+source,target,weight
+Law,Narrative,0.4166788354067588
+Law,Poetry_Wisdom,0.4011218648275517
+Law,Prophecy,0.4555193744501881
+Narrative,Poetry_Wisdom,0.4448255688395978
+Narrative,Prophecy,0.6851287546145676
+Poetry_Wisdom,Prophecy,0.5339633130889776

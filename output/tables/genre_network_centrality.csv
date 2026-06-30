@@ -1,0 +1,5 @@
+node,degree,degree_centrality,betweenness_centrality
+Law,3,1.0,0.0
+Narrative,3,1.0,0.0
+Poetry_Wisdom,3,1.0,0.0
+Prophecy,3,1.0,0.0
