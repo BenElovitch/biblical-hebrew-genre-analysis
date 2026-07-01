@@ -204,4 +204,3 @@ The project is designed to be run in Google Colab. The notebooks mount Google Dr
 - ETCBC / BHSA — Biblia Hebraica Stuttgartensia Amstelodamensis.
 - Text-Fabric documentation.
 - ALPcourse notebooks and course materials.
-- Shahar Spencer, `oracc-parser`, used as a structural model for reproducible corpus-processing workflows.
